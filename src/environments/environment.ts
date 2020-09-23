@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: '<AIzaSyCBoRWsNogepBCFFHg1zMHhSEoGNUs4oCA>',
-    authDomain: '<fir-fotos-acaa5.firebaseapp.com>',
-    databaseURL: '<https://fir-fotos-acaa5.firebaseio.com>',
-    projectId: '<fir-fotos-acaa5>',
-    storageBucket: '<fir-fotos-acaa5.appspot.com>',
-    messagingSenderId: '<93611273427>'
+    apiKey: 'AIzaSyCBoRWsNogepBCFFHg1zMHhSEoGNUs4oCA',
+    authDomain: 'fir-fotos-acaa5.firebaseapp.com',
+    databaseURL: 'https://fir-fotos-acaa5.firebaseio.com',
+    projectId: 'fir-fotos-acaa5',
+    storageBucket: 'fir-fotos-acaa5.appspot.com',
+    messagingSenderId: '93611273427'
   }
 };
 
